@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  position: fixed;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+#priv {
+  font-size: 15px;
+}
+
+
+#welcometext{
+  color: yellow;
+  font-size: 80px;
+  font-weight: 800;
+  z-index: -100;
+
+}
+
+/*
+
+<div>
+<div id="container">
+<nav>
+<ul>
+<li></li>
+</ul>
+<navbar>logo</navbar>
+
+<header>
+</header>
+</nav>
+<div id="page">
+<section>
+<article>
+<p></p>
+</article>
+</section>
+</div>
+<aside id="rightblock">
+</aside>
+</div>
+ </div>
+
+ */
